@@ -1,0 +1,13 @@
+{
+    "name": "hexpang/movie-robot-interface",
+    "description": "Movie Robot Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HexPang",
+            "email": "hexpang@jabstruse.com"
+        }
+    ],
+    "require": {}
+}
