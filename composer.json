@@ -9,5 +9,10 @@
             "email": "hexpang@jabstruse.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+       "psr-4": {
+          "hexpang\\": "./src/hexpang"
+       }
+   }
 }
